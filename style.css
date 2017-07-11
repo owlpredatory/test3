@@ -128,3 +128,13 @@ section.first-block{
     padding-left: 20px;
     font-weight: bold;
 }
+a.pie {
+    line-height: 60px;
+    height: 60px;
+    background: #5faee3;
+    color: #fff;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
