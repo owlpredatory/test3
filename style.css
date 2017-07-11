@@ -52,3 +52,11 @@ img {
     top: -3px;
     padding: 2px;
 }
+.fa-bars {
+    background: #5faee3;
+    color: #fff;
+    font-size: 2rem;
+    padding: 15px;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
