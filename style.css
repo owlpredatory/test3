@@ -46,3 +46,9 @@ img {
     padding-left: 10px;
     padding-right: 10px;
 }
+.fa-sort-desc {
+    position: relative;
+    color: #cbd0d5;
+    top: -3px;
+    padding: 2px;
+}
