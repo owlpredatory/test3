@@ -69,9 +69,20 @@ sup {
     padding: 2px;
     font-size: 0.5rem;
 }
+/*main-menu*************************/
 section.main-menu {
     display: flex;
     justify-content: center;
     margin-top: 50px;
     flex-wrap: wrap;
+}
+.main-menu-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15.5rem;
+    height: 15.5rem;
+    color: #fff;
+    font-size: 1.5rem;
 }
