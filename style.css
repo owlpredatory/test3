@@ -114,6 +114,9 @@ section.first-block{
     width: 92%;
     justify-content: center;
     margin: auto;
-    margin-top:50px;
-    
+    margin-top:50px;  
+}
+.first-block-item {
+    display: flex;
+    flex-direction: column;
 }
