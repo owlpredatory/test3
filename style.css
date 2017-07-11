@@ -89,3 +89,6 @@ section.main-menu {
 .main-menu-block:nth-child(1){  
     background: #5faee3;
 }
+.main-menu-block:nth-child(2){  
+    background: #6eb5e5;
+}
