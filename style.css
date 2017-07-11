@@ -28,3 +28,8 @@ img {
     border-radius: 100%;
     box-shadow: 0px 0px 5px 0px #c3c3c3;
 }
+
+.header-items {
+    display: flex;
+    align-items: center;
+}
