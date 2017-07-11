@@ -38,3 +38,7 @@ img {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.first .header-item-block:first-child{
+	padding-left: 0;
+}
