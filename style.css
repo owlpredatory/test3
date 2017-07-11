@@ -104,3 +104,6 @@ section.main-menu {
 .main-menu-block .fa {
     font-size: 3rem;
 }
+.main-menu-block span{
+    margin-top: 50px;
+}
