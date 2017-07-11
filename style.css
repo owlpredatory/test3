@@ -107,3 +107,13 @@ section.main-menu {
 .main-menu-block span{
     margin-top: 50px;
 }
+/*first-block***********************/
+section.first-block{
+    display: flex;
+    flex-direction: row;
+    width: 92%;
+    justify-content: center;
+    margin: auto;
+    margin-top:50px;
+    
+}
