@@ -101,3 +101,6 @@ section.main-menu {
 .main-menu-block:nth-child(5){  
     background: #99cbed;
 }
+.main-menu-block .fa {
+    font-size: 3rem;
+}
