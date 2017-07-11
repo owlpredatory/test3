@@ -86,3 +86,6 @@ section.main-menu {
     color: #fff;
     font-size: 1.5rem;
 }
+.main-menu-block:nth-child(1){  
+    background: #5faee3;
+}
