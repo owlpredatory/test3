@@ -85,6 +85,7 @@ section.main-menu {
     height: 15.5rem;
     color: #fff;
     font-size: 1.5rem;
+    background: #8bc4ea;
 }
 .main-menu-block:nth-child(1){  
     background: #5faee3;
