@@ -120,3 +120,11 @@ section.first-block{
     display: flex;
     flex-direction: column;
 }
+.first-block-item .info {
+    background: #e5e5e5;
+    color: #797979;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    font-weight: bold;
+}
